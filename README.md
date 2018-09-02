@@ -14,7 +14,7 @@ It's our goal to provide a community developed application that is Free and open
 
 This allows anyone inspect the code for their own security and better understand how the analytics are being generated.
 
-#Development Goals
+# Development Goals
 
 Create a database backend to handle the persistent storage of data for the app.
 
