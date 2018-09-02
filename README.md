@@ -13,3 +13,15 @@ Amazon FBA Insights empowers sellers to control their own data and decision maki
 It's our goal to provide a community developed application that is Free and open-source software (FOSS).
 
 This allows anyone inspect the code for their own security and better understand how the analytics are being generated.
+
+#Development Goals
+
+Create a database backend to handle the persistent storage of data for the app.
+
+Create a front end (locally hosted Angular 6 app) to display basic user interface.
+
+Create Amazon FBA interface to pull reports and store data in local database.
+
+Create a simple, single-click, installation script/installer to run app.
+
+Create a publicly hosted demo of the front end to show capabilities with dummy data.
